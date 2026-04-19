@@ -1,0 +1,40 @@
+{
+  "name": "Vestara Token (Devnet)",
+  "symbol": "ARA",
+  "description": "A test token on Solana Devnet for demonstration purposes",
+  "image": "https://raw.githubusercontent.com/vest-ara/metadatas/main/logo.png",
+  "external_url": "https://vest-ara.github.io",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Utility"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Devnet"
+    },
+    {
+      "trait_type": "Supply",
+      "value": "10000000"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/vest-ara/metadatas/main/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "token",
+    "creators": [
+      {
+        "address": "5BkJA9k9ft7GHBx6kup3PZHXfvy6nqwMEn2xJFcc2wPM",
+        "share": 100
+      }
+    ]
+  },
+  "additionalMetadata": [
+    ["website", "https://vest-ara.github.io"],
+    ["twitter", "@vestara"]
+  ]
+}
