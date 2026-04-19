@@ -2,7 +2,7 @@
   "name": "Vestara Token (Devnet)",
   "symbol": "ARA",
   "description": "A test token on Solana Devnet for demonstration purposes",
-  "image": "https://raw.githubusercontent.com/vest-ara/metadatas/main/logo.png",
+  "image": "https://raw.githubusercontent.com/vest-ara/metadatas/main/assets/logo.png",
   "external_url": "https://vest-ara.github.io",
   "attributes": [
     {
@@ -21,7 +21,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://raw.githubusercontent.com/vest-ara/metadatas/main/logo.png",
+        "uri": "https://raw.githubusercontent.com/vest-ara/metadatas/main/assets/logo.png",
         "type": "image/png"
       }
     ],
